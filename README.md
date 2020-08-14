@@ -2,6 +2,8 @@
 Onedrive Directory Index
 
 ## 功能：
+此版本为作者的备份！！！
+！！！不是原作者oneindex!原作者已经删除oneinde项目！！！
 不占用服务器空间，不走服务器流量，  
 
 直接列出 OneDrive 目录，文件直链下载。  
