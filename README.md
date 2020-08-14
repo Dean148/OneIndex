@@ -1,4 +1,4 @@
-# 此版本为本人的备份！！！
+# 此版本为本人的备份！！！很多链接不能访问！
 # ！！！不是原作者oneindex!原作者已经删除oneindex项目！！！
 # OneIndex
 Onedrive Directory Index
