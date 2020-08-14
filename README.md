@@ -18,7 +18,7 @@ Onedrive Directory Index
 #### 需求：
 1、PHP空间，PHP 5.6+ 需打开curl支持  
 2、OneDrive 账号 (个人、企业版或教育版/工作或学校帐户)  
-3、OneIndex 程序   
+3、OneIndex 程序 
 
 ## 配置：
 <img width="658" alt="image" src="https://raw.githubusercontent.com/donwa/oneindex/files/images/install.gif">  
